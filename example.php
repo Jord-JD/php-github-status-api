@@ -1,8 +1,8 @@
 <?php
 
 use Carbon\Carbon;
-use DivineOmega\GitHubStatusApi\Client;
-use DivineOmega\GitHubStatusApi\Enums\GitHubStatus;
+use JordJD\GitHubStatusApi\Client;
+use JordJD\GitHubStatusApi\Enums\GitHubStatus;
 
 require_once 'vendor/autoload.php';
 

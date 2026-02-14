@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "DivineOmega\\GitHubStatusApi\\": "src/"
+      "JordJD\\GitHubStatusApi\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "DivineOmega\\GitHubStatusApi\\Tests\\": "tests/"
+      "JordJD\\GitHubStatusApi\\Tests\\": "tests/"
     }
   },
   "replace": {

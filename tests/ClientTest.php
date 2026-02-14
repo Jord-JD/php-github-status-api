@@ -1,9 +1,9 @@
 <?php
 
-namespace DivineOmega\GitHubStatusApi;
+namespace JordJD\GitHubStatusApi;
 
-use DivineOmega\GitHubStatusApi\Client;
-use DivineOmega\GitHubStatusApi\Enums\GitHubStatus;
+use JordJD\GitHubStatusApi\Client;
+use JordJD\GitHubStatusApi\Enums\GitHubStatus;
 use PHPUnit\Framework\TestCase;
 
 class ClientTest extends TestCase

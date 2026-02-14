@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\GitHubStatusApi\Enums;
+namespace JordJD\GitHubStatusApi\Enums;
 
 class GitHubStatus
 {

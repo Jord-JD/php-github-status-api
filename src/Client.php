@@ -1,9 +1,9 @@
 <?php
 
-namespace DivineOmega\GitHubStatusApi;
+namespace JordJD\GitHubStatusApi;
 
 use Carbon\Carbon;
-use DivineOmega\GitHubStatusApi\Enums\GitHubStatus;
+use JordJD\GitHubStatusApi\Enums\GitHubStatus;
 use IvoPetkov\HTML5DOMDocument;
 
 class Client
