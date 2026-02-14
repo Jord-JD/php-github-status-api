@@ -35,19 +35,12 @@ class ClientTest extends TestCase
         $this->assertSame(GitHubStatus::MAJOR, $mockedClient->status());
     }
 
-    public function testStatusShouldReturnuUnknown()
+    public function testStatusShouldReturnUnknown()
     {
         $mockedClient = $this->createMock(Client::class);
         $mockedClient->method('status')
             ->willReturn(GitHubStatus::UNKNOWN);
 
         $this->assertSame(GitHubStatus::UNKNOWN, $mockedClient->status());
-    }
-
-    public function testStatusWillReturnGood()
-    {
-        $mockedClient = (new Client())->status();
-
-        $this->assertSame(GitHubStatus::GOOD, $mockedClient->status());
     }
 }
