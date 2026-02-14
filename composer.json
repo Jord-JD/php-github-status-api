@@ -28,7 +28,7 @@
     }
   },
   "replace": {
-    "jord-jd/github-status-api": "self.version"
+    "divineomega/github-status-api": "self.version"
   },
   "extra": {
     "branch-alias": {
