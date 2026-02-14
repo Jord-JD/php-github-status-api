@@ -17,8 +17,8 @@ Both the current status and historical statuses can be looked up by date.
 </p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/divineomega/github-status-api/stats">
-        <img src="https://img.shields.io/packagist/dt/divineomega/github-status-api.svg" />
+    <a href="https://packagist.org/packages/jord-jd/github-status-api/stats">
+        <img src="https://img.shields.io/packagist/dt/jord-jd/github-status-api.svg" />
     </a>
 </p>
 
@@ -27,7 +27,7 @@ Both the current status and historical statuses can be looked up by date.
 To install PHP GitHub Status API, just run the following composer command.
 
 ```bash
-composer require divineomega/github-status-api
+composer require jord-jd/github-status-api
 ```
 
 Remember to include the `vendor/autoload.php` file if your framework does not 
