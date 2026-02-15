@@ -1,6 +1,6 @@
 # PHP GitHub Status API
 
-[![Build Status](https://travis-ci.com/DivineOmega/php-github-status-api.svg?branch=master)](https://travis-ci.com/DivineOmega/php-github-status-api)
+[![Build Status](https://travis-ci.com/Jord-JD/php-github-status-api.svg?branch=master)](https://travis-ci.com/Jord-JD/php-github-status-api)
 
 ---
 
